@@ -16,7 +16,7 @@
 # limitations under the License.
 # ======================
 
-cmake_minimum_required(VERSION 3.19 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.6 FATAL_ERROR)
 
 include("${CMAKE_CURRENT_SOURCE_DIR}/ARA_API_Helpers.cmake")
 include("${CMAKE_CURRENT_SOURCE_DIR}/ARA_Version.cmake")
